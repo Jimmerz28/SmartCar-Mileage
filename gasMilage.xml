@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<milage>
+  <fillup>
+    <date></date>
+    <gallons>7.264</gallons>
+    <miles>236</miles>
+  </fillup>
+  <fillup>
+    <date></date>
+    <gallons>7.118</gallons>
+    <miles>234.5</miles>
+  </fillup>
+</milage>
