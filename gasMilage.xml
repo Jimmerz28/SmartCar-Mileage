@@ -2,12 +2,52 @@
 <milage>
   <fillup>
     <date></date>
-    <gallons>7.264</gallons>
-    <miles>236</miles>
+    <gallons>8.219</gallons>
+    <miles>263.9</miles>
   </fillup>
   <fillup>
     <date></date>
-    <gallons>7.118</gallons>
-    <miles>234.5</miles>
+    <gallons>7.461</gallons>
+    <miles>308.3</miles>
+  </fillup>
+  <fillup>
+    <date></date>
+    <gallons>7.127</gallons>
+    <miles>246.6</miles>
+  </fillup>
+  <fillup>
+    <date></date>
+    <gallons>8.112</gallons>
+    <miles>283.0</miles>
+  </fillup>
+  <fillup>
+    <date></date>
+    <gallons>7.831</gallons>
+    <miles>321.3</miles>
+  </fillup>
+  <fillup>
+    <date></date>
+    <gallons>6.231</gallons>
+    <miles>220.0</miles>
+  </fillup>
+  <fillup>
+    <date></date>
+    <gallons>7.197</gallons>
+    <miles>262.0</miles>
+  </fillup>
+  <fillup>
+    <date></date>
+    <gallons>8.064</gallons>
+    <miles>296.0</miles>
+  </fillup>
+  <fillup>
+    <date></date>
+    <gallons>6.616</gallons>
+    <miles>249.3</miles>
+  </fillup>
+  <fillup>
+    <date></date>
+    <gallons>7.597</gallons>
+    <miles>247.5</miles>
   </fillup>
 </milage>
